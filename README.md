@@ -40,3 +40,15 @@
 
 ![bikesharing](/images/image2.png)
 
+
+
+
+
+
+
+
+
+![bikesharing](/images/image3.png)
+Peak usage for NYC Citibikes occurs at 5 minutes. 146,752 bikes were checked out at 5 minutes for August 2019.
+33 Citibikes were checked out for at least 2 hours and 59 minutes.
+
