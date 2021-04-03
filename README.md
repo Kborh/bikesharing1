@@ -75,7 +75,8 @@ the most between 11 AM and 5 PM.
 
 
 ![bikesharing](/images/image4.png)
-Males were the primary user of Citibikes in August 2019. There were 34,151 female Citibike users at peak usage, 
-which is 68.4% less than male rideres.
+In August 2019, Thursdays are the most popular days to use Citibikes amongst male and female subscribers. Sundays were the 
+most popular days to use Citibikes for male and female customers.
+
 
 
