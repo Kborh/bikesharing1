@@ -79,4 +79,18 @@ In August 2019, Thursdays are the most popular days to use Citibikes amongst mal
 most popular days to use Citibikes for male and female customers.
 
 
+## Summery
+Overall, males were the primary users of Citibikes in New York City during August 2019. The most usage occurred on Thursdays 
+and starting and ending locations of Citibike trips were the same. Additional analysis is needed in order to determine if Citibikes
+is a great fit for Des Moines, Iowa.
+
+In order to determine if Citibikes is a good fit for Des Moines, Iowa, analysts visualize population growths between Des Moines and 
+New York City. Publicly available census data could be used to look at population totals and growth rates between the two cities. 
+If population growth for Des Moines is greater than New York City's, the Citibikes has potential to be a great fit for Des Moines.
+
+An additional visualizatin that may help investors determine if Citibikes are a good fit for Des Moines include correlating weather 
+data between Des Moines and New York City. Both cities have four seasons, and if there temperatures and weather are similar, than 
+this may also provide a stronger case to investors that Citibikes is a great fit for Des Moines, Iowa.
+
+
 
