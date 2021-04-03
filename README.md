@@ -52,3 +52,15 @@
 Peak usage for NYC Citibikes occurs at 5 minutes. 146,752 bikes were checked out at 5 minutes for August 2019.
 33 Citibikes were checked out for at least 2 hours and 59 minutes.
 
+
+
+![bikesharing](/images/image4.png)
+Males were the primary user of Citibikes in August 2019. There were 34,151 female Citibike users at peak usage, 
+which is 68.4% less than male rideres.
+
+
+
+![bikesharing](/images/image5.png)
+Citibikes are used the least between 12 AM and 5 AM Sundays through Saturdays. This may be a good time for Citibikes 
+to perform maintenance on their bikes.
+
