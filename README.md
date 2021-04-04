@@ -41,7 +41,7 @@ bikes were utilized in that part of the city.
 
 
 ![bikesharing](/images/image2.png)
-In 2018, subscribers account for majority of the Citibikes usage 1,900,359 approximately 95%, 
+In 2019, subscribers account for majority of the Citibikes usage 1,900,359 approximately 95%, 
 where as,customers account for 443,865 about 5% of the total. 
 
 
