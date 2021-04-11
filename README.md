@@ -61,7 +61,7 @@ Peak usage for NYC Citibikes occurs at 5 minutes. 146,752 bikes were checked out
 
 ![bikesharing](/images/image7.png)
 Males were the primary user of Citibikes in August 2019. There were 34,151 female Citibike users at peak usage, 
-which is 68.4% less than male rideres
+which is 68.4% less than male rideres.
 
 
 
